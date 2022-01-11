@@ -7,7 +7,7 @@ Der Identity-Stick Prototyp zeigt Entwicklungspotenzial: Vom Identity Stick zum 
 
 Der Prototyp basiert auf einem USB-Stick, aber die von uns vorgeschlagene Erweiterung könnte neben Identity Sticks auch mit Laptops oder Smartphones genutzt werden. 
 
-So könnte der eigene 'Identity Key' an diese Hardware gebunden sein, ohne dass man sich einen Stick zulegen müsste. Hier wäre besonders darauf zu achten, dass das genutzt Gerät auch sicher ist. 
+So könnte der eigene 'Identity Key' an diese Hardware gebunden sein, ohne dass man sich einen Stick zulegen müsste. Hier wäre besonders darauf zu achten, dass das genutzte Gerät auch sicher ist. 
 
 So könnten verschiedene Ausweise, Führerscheine und weitere Karten digital in das Gerät integriert werden. Attribute der verschiedenen Karten können alle über die gleiche Schnittstelle geteilt werden. Der Ablauf wäre für Nutzende stets einheitlich. Apps, die darauf aufbauen, könnten ein Identitätshub werden.
 
@@ -31,6 +31,6 @@ Statt nationaler Standards könnten Anbieter zum Ausweisen und Einloggen einen S
 - Ausweisen bei Paketstationen
 
 ## Fido-Vault
-Der Identity Stick könnte weiter entwickelt werden, um Privatpersonen eine stärkere Kontrolle über ihre Daten zu geben. So könnten neue Konzepte, wie zum Beispiel eine Art 'FIDOVault'  Daten- und Identitätsschutz noch transparenter machen. In einem Vault könnte ein Sicherheitsschlüssel als Speicher für wichtige Daten benutzt werden, die mit der Identität verknüpft sind. Das könnte einen Passwortmanager, eine Auflistung der Dienste, die mit dem passwortlosen Login oder 2-Faktor Authentifikation genutzt wurden, oder auch Zertifikate enthalten. Online Dienste könnten selbst über entsprechende Schnittstellen Informationen im Vault ablegen (z. B. Röntgenbild) und Nutzende selbst Daten (z.B. das 'Elster Zertifikat') eintragen. Nutzende würden den Diensten dann ausgewählt Daten zur Verfügung stellen, wenn diese benötigt werden.
+Der Identity Stick könnte weiter entwickelt werden, um Privatpersonen eine stärkere Kontrolle über ihre Daten zu geben. So könnten neue Konzepte, wie zum Beispiel eine Art 'FIDOVault' Daten- und Identitätsschutz noch transparenter machen. In einem Vault könnte ein Sicherheitsschlüssel als Speicher für wichtige Daten benutzt werden, die mit der Identität verknüpft sind. Das könnte einen Passwortmanager, eine Auflistung der Dienste, die mit dem passwortlosen Login oder 2-Faktor Authentifikation genutzt wurden, oder auch Zertifikate enthalten. Online Dienste könnten selbst über entsprechende Schnittstellen Informationen im Vault ablegen (z. B. Röntgenbild) und Nutzende selbst Daten (z.B. das 'Elster Zertifikat') eintragen. Nutzende würden den Diensten dann ausgewählt Daten zur Verfügung stellen, wenn diese benötigt werden.
 
 Leider hat eine Entwicklung dieses Konzeptes nicht mehr in den Rahmen dieses Projekts gepasst. Es könnte aber eine interessante Erweiterung des Identity Sticks darstellen.
