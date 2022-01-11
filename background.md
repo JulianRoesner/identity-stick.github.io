@@ -4,7 +4,7 @@
 
 🔑 Passwortdiebstahl gehört zu den meist verbreiteten Gefahren online. [80% an Datenleaks sind auf gestohlene oder schlechte Passwörter zurückzuführen](https://www.cyclonis.com/report-reveals-data-breach-due-bad-password-habits/).
 
-Die meisten Accounts werden aber immernoch mit Passwörtern gesichert. Passwörter haben ein Sicherheitsproblem: Sehr einfache Passwörter wie ‘Berlin2020’, ‘passwort’, ‘qwerty’ oder ‘12345678’ können sehr schnell dazu führen, dass die eigene digitale Identität gestohlen und missbraucht wird. Gute Passwörter haben ein Usability Problem: Es ist sehr unkomfortabel, für jeden Account ein anderes sicheres Passwort einzusetzen und Passwortmanager sind in Deutschland nur wenig akzeptiert.
+Die meisten Accounts werden aber immer noch mit Passwörtern gesichert. Passwörter haben ein Sicherheitsproblem: Sehr einfache Passwörter wie ‘Berlin2020’, ‘passwort’, ‘qwerty’ oder ‘12345678’ können sehr schnell dazu führen, dass die eigene digitale Identität gestohlen und missbraucht wird. Gute Passwörter haben ein Usability Problem: Es ist sehr unkomfortabel, für jeden Account ein anderes sicheres Passwort einzusetzen und Passwortmanager sind in Deutschland nur wenig akzeptiert.
 
 ## Zu viele Methoden, zu viele Passwörter
 
